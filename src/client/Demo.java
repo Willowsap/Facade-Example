@@ -10,7 +10,7 @@ import theater.components.SoundSystem;
 import theater.components.SurroundSound;
 
 /**
- * Demo to play with the Table and Table Visitors.
+ * Demo to play with the theater system.
  * 
  * @author Willow Sapphire
  * @version 04/05/2023
